@@ -4,12 +4,12 @@ title: Frequently asked questions
 # description: The quick brown fox jumps over a lazy dog. DJs flock by when MTV ax Error6251 is the best. quiz prog. Junk MTV quiz graced by fox whelps.
 faqItem:
   - question: Is this proven to work?
-    answer: Yes, please refer to the research studies that are currently ongoing here, here and here. 
+    answer: Yes, please refer to the research studies that are currently ongoing here. 
     dataTarget: One
     show: show
 
   - question: How much will this cost?
-    answer: The general wellness version will cost users $4 per month. It may also be covered through your insurance. Please ask your employer. 
+    answer: The general wellness version will cost users ~$5 per month. It may also be covered through your insurance. Please ask your employer. 
     dataTarget: Two
     show: 
     
