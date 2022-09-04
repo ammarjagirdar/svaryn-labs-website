@@ -13,4 +13,4 @@ services:
 
   - icon: ti-key
     title: Federated Machine learning
-    description: Benefits of AI with private health data at the edge
+    description: Benefits of AI with private health data at the edge 
