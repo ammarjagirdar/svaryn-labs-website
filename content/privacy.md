@@ -4,19 +4,19 @@ description: >
   This is the Sample Description
 ---
 
-It is svaryn labs’s policy to respect your privacy regarding any information we may collect while operating our website. This Privacy Policy applies to svaryn labs.com (hereinafter, “us”, “we”, or “svaryn labs.com”). We respect your privacy and are committed to protecting personally identifiable information you may provide us through the Website. We have adopted this privacy policy (“Privacy Policy”) to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through the Website and does not apply to our collection of information from other sources.
+It is Svaryn labs’s policy to respect your privacy regarding any information we may collect while operating our website. This Privacy Policy applies to svarynlabs.com (hereinafter, “us”, “we”, or “svarynlabs.com”). We respect your privacy and are committed to protecting personally identifiable information you may provide us through the Website. We have adopted this privacy policy (“Privacy Policy”) to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through the Website and does not apply to our collection of information from other sources.
 
 This Privacy Policy, together with the Terms and conditions posted on our Website, set forth the general rules and policies governing your use of our Website. Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.
 
 ### Website Visitors
 
-Like most website operators, svaryn labs collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. svaryn labs’s purpose in collecting non-personally identifying information is to better understand how svaryn labs’s visitors use its website. From time to time, svaryn labs may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+Like most website operators, Svaryn labs collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Svaryn labs’s purpose in collecting non-personally identifying information is to better understand how Svaryn labs’s visitors use its website. From time to time, Svaryn labs may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-svaryn labs also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on https://svarynlabs.com blog posts. svaryn labs only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
+Svaryn labs also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on https://svarynlabs.com blog posts. Svaryn labs only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to svaryn labs’s websites choose to interact with svaryn labs in ways that require svaryn labs to gather personally-identifying information. The amount and type of information that svaryn labs gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at https://svarynlabs.com to provide a username and email address.
+Certain visitors to Svaryn labs’s websites choose to interact with Svaryn labs in ways that require Svaryn labs to gather personally-identifying information. The amount and type of information that Svaryn labs gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at https://svarynlabs.com to provide a username and email address.
 
 ### Security
 
@@ -34,18 +34,18 @@ We have no control over, and assume no responsibility for the content, privacy p
 
 ### Aggregated Statistics
 
-svaryn labs may collect statistics about the behavior of visitors to its website. svaryn labs may display this information publicly or provide it to others. However, svaryn labs does not disclose your personally-identifying information.
+Svaryn labs may collect statistics about the behavior of visitors to its website. Svaryn labs may display this information publicly or provide it to others. However, Svaryn labs does not disclose your personally-identifying information.
 
 ### Cookies
 
-To enrich and perfect your online experience, svaryn labs uses “Cookies”, similar technologies and services provided by others to display personalized content, appropriate advertising and store your preferences on your computer.
+To enrich and perfect your online experience, Svaryn labs uses “Cookies”, similar technologies and services provided by others to display personalized content, appropriate advertising and store your preferences on your computer.
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. svaryn labs uses cookies to help svaryn labs identify and track visitors, their usage of https://svarynlabs.com, and their website access preferences. svaryn labs visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using svaryn labs’s websites, with the drawback that certain features of svaryn labs’s websites may not function properly without the aid of cookies.
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Svaryn labs uses cookies to help Svaryn labs identify and track visitors, their usage of https://svarynlabs.com, and their website access preferences. Svaryn labs visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Svaryn labs’s websites, with the drawback that certain features of Svaryn labs’s websites may not function properly without the aid of cookies.
 
-By continuing to navigate our website without changing your cookie settings, you hereby acknowledge and agree to svaryn labs’s use of cookies.
+By continuing to navigate our website without changing your cookie settings, you hereby acknowledge and agree to Svaryn labs’s use of cookies.
 
 ### E-commerce
 
-Those who engage in transactions with svaryn labs – by purchasing svaryn labs’s services or products, are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, svaryn labs collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with svaryn labs. svaryn labs does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Those who engage in transactions with Svaryn labs – by purchasing Svaryn labs’s services or products, are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Svaryn labs collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Svaryn labs. Svaryn labs does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-Although most changes are likely to be minor, svaryn labs may change its Privacy Policy from time to time, and in svaryn labs’s sole discretion. svaryn labs encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+Although most changes are likely to be minor, Svaryn labs may change its Privacy Policy from time to time, and in Svaryn labs’s sole discretion. Svaryn labs encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
