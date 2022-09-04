@@ -1,12 +1,12 @@
 ---
 enable: true
-title: Amorph Engine
+title: aMorph Engine
 description: Building on the human desire to care for others
-description2: Our patented amorph engine builds a digital twin mirroring the state of your health - Past, present and future. 
+description2: Our patented anthropomorphic(aMorph) engine builds a digital twin mirroring the state of your health - Past, present and future. 
 # buttonText: Try It Free
 
 Title2nd: Smart Nudges
-description2nd: Our smart nudges build atomic habits without nagging you. 
+description2nd: Our smart nudges build atomic habits without nagging you - amusingly, playfully, grudginly, but - joyfully. 
 image1: images/feature/feature-illustration-one.svg
 image2: images/feature/feature-illustration-two.svg
 checkItem:
