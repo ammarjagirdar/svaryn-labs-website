@@ -14,6 +14,6 @@ faqItem:
     show: 
     
   - question: How is my private health data protected?
-    answer: SOC2, HIPAA certification
+    answer: ISO 27001, SOC2 & HIPAA certification
     dataTarget: Three
     show: 
