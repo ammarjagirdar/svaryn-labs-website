@@ -4,8 +4,8 @@ enable: true
 title: Current healthcare interventions are
 services:
   - icon: ti-settings
-    title: Expensive to presribe
-    description: High costs to companies, governments and individuals
+    title: Expensive to prescribe
+    description: High costs to individuals, companies and governments
 
   - icon: ti-check-box
     title: Not responsive
